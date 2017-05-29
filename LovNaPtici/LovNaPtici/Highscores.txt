@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 ﻿Sale - 42
 Badzo - 41
 Miki - 76
 Sase - 27
 Sasho - 0
-=======
-﻿Sale - 42
-Badzo - 41
-Miki - 76
-Sase - 27
-Sasho - 0
->>>>>>> 8dd3a8a9a6ab642a57efaf122ace5b8f5aeeacda

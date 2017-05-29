@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
@@ -21,27 +20,3 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
-=======
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LovNaPtici", "LovNaPtici\LovNaPtici.csproj", "{C8AF4B1C-AD21-4529-B88A-249E325B4CED}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8AF4B1C-AD21-4529-B88A-249E325B4CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8AF4B1C-AD21-4529-B88A-249E325B4CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8AF4B1C-AD21-4529-B88A-249E325B4CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8AF4B1C-AD21-4529-B88A-249E325B4CED}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-EndGlobal
->>>>>>> 8dd3a8a9a6ab642a57efaf122ace5b8f5aeeacda
